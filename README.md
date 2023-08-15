@@ -10,4 +10,3 @@ Our project is based on a data from “Kaggle”: “flavors of cacao”. This d
 
 The project is in RStudio with R.
 
-Using the R file, you should press the button "Knit", this will create the HTML file.
